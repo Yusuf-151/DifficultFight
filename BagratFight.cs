@@ -277,7 +277,7 @@ namespace BagratFight
 
             else
             {
-                Console.WriteLine("Поздравляем! Вы выиграли!!1! Уважение вам и почет!");
+                Console.WriteLine("Поздравляем! Вы выиграли!!111! Уважение вам и почет!");
             }
 
             Console.ReadKey();
